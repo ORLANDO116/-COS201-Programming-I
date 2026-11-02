@@ -1,15 +1,19 @@
 COS 201 - Computer Programming I
 
+Student Name: Ebonne Divine Chukwuemeka
+Matriculation Number: 25/16123
+Programme: Software Engineering
+
 Week 2: Development Environment and First Java Program
 
-Programs:
+Programs
 
 * HelloWorld.java
 * StudentProfile.java
 
 Week 3: Variables, Data Types, Expressions and Input/Output
 
-Programs:
+Programs
 
 * SimpleCalculator.java
 * AverageCalculator.java
@@ -20,9 +24,11 @@ How to Compile and Run
 Open the terminal in the folder containing the Java file.
 
 Compile:
+
 javac FileName.java
 
 Run:
+
 java FileName
 
 Description
